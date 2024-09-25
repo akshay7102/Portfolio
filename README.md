@@ -2,8 +2,6 @@
 
 This project showcases my personal portfolio website, providing information about my skills, projects, education, and work experience. The website is built using React, utilizing various libraries and frameworks for enhanced functionality and styling.
 
-## Preview
-![Portfolio Webpage Home](./src/assets/img/Portfolio_Webpage_Home.png)
 
 ## Technologies Used
 
